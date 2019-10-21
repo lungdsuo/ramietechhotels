@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/en/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/en/blog/feed.xml</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.prestashop.com/en/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>How to create a welcome email series for new contacts</title>
+    <link>https://www.prestashop.com/en/blog/create-welcome-email-series-contacts</link>
+    <description>When done right, welcome email series can bring impressive results. This article explains why you should create one for your business and shows a few tips and examples on how to do it right.</description>
+     <pubDate>Mon, 21 Oct 2019 14:20:40 +0200</pubDate>
+ <dc:creator>Klimczak</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/create-welcome-email-series-contacts</guid>
+  </item>
+  <item>
+    <title>Top 3 Strategies to Boost Your E-commerce</title>
+    <link>https://www.prestashop.com/en/blog/strategies-boost-e-commerce</link>
+    <description>Your ecommerce store is critical to broadening your brand and increasing your reach.</description>
+     <pubDate>Thu, 17 Oct 2019 18:56:35 +0200</pubDate>
+ <dc:creator>rajbarman</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/strategies-boost-e-commerce</guid>
+  </item>
+  <item>
+    <title>Four tips to selling cross-border into Brazil</title>
+    <link>https://www.prestashop.com/en/blog/tips-selling-cross-border-brazil</link>
+    <description>Brazil is the largest ecommerce market in Latin America, with 34% market share according to eMarketer.</description>
+     <pubDate>Wed, 16 Oct 2019 14:13:11 +0200</pubDate>
+ <dc:creator>paulamartins</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/tips-selling-cross-border-brazil</guid>
+  </item>
+  <item>
+    <title>Trends that drive conversion rate optimization</title>
+    <link>https://www.prestashop.com/en/blog/trends-conversion-rate-optimization</link>
+    <description>Do you know that most of the companies even with heavy traffic fail to increase their conversion rate &amp;amp; not able to create a ROI to be in the game?</description>
+     <pubDate>Mon, 14 Oct 2019 11:50:12 +0200</pubDate>
+ <dc:creator>Webkul</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/trends-conversion-rate-optimization</guid>
+  </item>
+  <item>
+    <title>Why the search engine in your web shop is important</title>
+    <link>https://www.prestashop.com/en/blog/search-engine-on-your-site-important</link>
+    <description>Most web shops have an internal search engine. A search engine is useful for your visitors, so they have the option of quickly finding the products they are looking for.</description>
+     <pubDate>Fri, 11 Oct 2019 14:32:12 +0200</pubDate>
+ <dc:creator>bulldesign</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/search-engine-on-your-site-important</guid>
+  </item>
+  <item>
+    <title>What payment solutions should I offer on my online store?</title>
+    <link>https://www.prestashop.com/en/blog/choosing-a-online-payment-solution</link>
+    <description>Have you ever considered the importance of choosing the right payment method for your business, which is also convenient for your customers?</description>
+     <pubDate>Wed, 09 Oct 2019 16:34:07 +0200</pubDate>
+ <dc:creator>Méguy Solvet</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/choosing-a-online-payment-solution</guid>
+  </item>
+  <item>
+    <title>End of the year special edition: The 2019 online shopping Calendar</title>
+    <link>https://www.prestashop.com/en/blog/2019-online-shopping-Calendar</link>
+    <description>The last 4 months of the year are very important, and are marked by important moments that cannot be ignored.</description>
+     <pubDate>Mon, 07 Oct 2019 16:04:53 +0200</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/2019-online-shopping-Calendar</guid>
+  </item>
+  <item>
+    <title>The significance of your webdesign for your SEO</title>
+    <link>https://www.prestashop.com/en/blog/significance-of-webdesign-SEO</link>
+    <description>Many have the misconception that SEO is just about having the right search words in the texts on your website.</description>
+     <pubDate>Fri, 04 Oct 2019 17:00:59 +0200</pubDate>
+ <dc:creator>bulldesign</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/significance-of-webdesign-SEO</guid>
+  </item>
+  <item>
+    <title>What are the differences between migration, updating and upgrading?</title>
+    <link>https://www.prestashop.com/en/blog/differences-migration-updating-upgrading</link>
+    <description>When managing software as comprehensive as PrestaShop, knowing the differences between migration, update and upgrade concepts is essential.</description>
+     <pubDate>Wed, 02 Oct 2019 11:06:33 +0200</pubDate>
+ <dc:creator>Méguy Solvet</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/differences-migration-updating-upgrading</guid>
+  </item>
+  <item>
+    <title>5 key elements for managing your after-sales service</title>
+    <link>https://www.prestashop.com/en/blog/5-keys-to-manage-your-after-sales-service</link>
+    <description>The service you provide to your customers reflects on your company.</description>
+     <pubDate>Mon, 30 Sep 2019 11:08:38 +0200</pubDate>
+ <dc:creator>Yateo EN</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/5-keys-to-manage-your-after-sales-service</guid>
+  </item>
+  </channel>
+</rss>

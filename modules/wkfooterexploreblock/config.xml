@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>wkfooterexploreblock</name>
+	<displayName><![CDATA[Manage Custom Links]]></displayName>
+	<version><![CDATA[2.0.1]]></version>
+	<description><![CDATA[Shows custom links at footer explore block and navigation menu.]]></description>
+	<author><![CDATA[webkul]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
